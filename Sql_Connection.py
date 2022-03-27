@@ -17,7 +17,7 @@ def sql_connection():
         Erişmek istediğimiz veritabanı.
 
     Trusted_Connection=yes
-        Eğer serverimizin erişiminde şifre yok ise direk bağlanmamızı sağşar
+        Eğer serverimizin erişiminde şifre yok ise direk bağlanmamızı sağlar
 
     Eğer kullanıcı adı ve şifremiz var ise:
     UID=kullanıcı_adı;
